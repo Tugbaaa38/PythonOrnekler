@@ -1,0 +1,2 @@
+# PythonOrnekler
+FaktoriyelBulma
