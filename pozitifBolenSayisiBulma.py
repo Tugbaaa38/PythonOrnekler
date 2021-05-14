@@ -1,4 +1,4 @@
-#ekrandan alinan sayinin kac tane pozitif boleni oldugunu bulan program
+#ekrandan okunan sayinin kac tane pozitif boleni oldugunu bulan program
 
 bolenSayisi=0
 sayi=int(input("Sayi giriniz:"))
